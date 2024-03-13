@@ -1,5 +1,3 @@
-
-
 pub use app_bsky_actor_defs_preferences::*;
 pub use app_bsky_actor_defs_profile_associated::*;
 pub use app_bsky_actor_defs_profile_view::*;
